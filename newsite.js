@@ -117,11 +117,7 @@ const addLInk=()=>{
 
 }
 
-const removeLink=()=>{
-      
-     
 
-}
  
 const btn=document.getElementById('mybtn');
 btn.addEventListener('click',addLInk);
