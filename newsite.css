@@ -1,0 +1,100 @@
+body{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #C4C7C9;
+
+}
+#main{
+    padding:1em;
+    display: flex;
+    flex-direction: column;
+    
+}
+#mybtn{
+    width:fit-content;
+    padding: 10px;
+    margin-right:5px;
+    background-color: cornflowerblue;
+    border-style: none;
+    
+
+    
+    
+}
+#mybtn:hover{
+    background-color: rgb(8, 78, 209);
+}
+#divv{
+    background-color: white;
+    margin-left: 3.6em;
+    margin-right: 1.2em;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    
+}
+#myul{
+    display: flex;
+    flex-direction: column;
+    margin: 1em 0;
+    list-style: none;
+    display: block;
+
+    
+}
+.mylist{
+    
+    
+    padding:0.5px  ;
+    margin:5px;
+    background-color:white;
+
+    
+    
+}
+#spanid{
+    display: block;
+    font-style: italic;
+    font-size: small;
+    color:black;
+    padding:0;
+
+}
+#p{
+    color: rgb(12, 180, 247);
+    
+    font-size: 28px;
+    padding:0 5px;
+    
+}
+#addlink{
+    background-color: rgba(8, 180, 248, 0.904);
+    
+    border-style: none;
+    padding: 3px;
+    
+    
+}
+.myinput{
+    
+    margin-left: 2px;
+}
+
+#aid{
+    text-decoration:none;
+    color:rgb(10, 7, 7);
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
